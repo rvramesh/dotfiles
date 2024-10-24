@@ -1,4 +1,5 @@
 #!/bin/bash
+cp ./zscaler.crt ~
 
 # powerline fonts for zsh agnoster theme
 git clone https://github.com/powerline/fonts.git
